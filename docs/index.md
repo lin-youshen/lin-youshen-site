@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Welcome
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This is my personal site <https://lin-youshen.github.io/MySite/>
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+> updated at 26th May 2024
 
-## Project layout
+## Personal information
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+more information is available in [Personal introduction](./introduction.md)
+
+## Research diection
+
+- UAVs location, perception and planning

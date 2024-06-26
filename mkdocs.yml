@@ -1,4 +1,25 @@
-site_name: My Docs
+site_name: Personal site of Lin Youshen
+site_url: https://lin-youshen.github.io/MySite/
+site_author: Youshen Lin
+site_description: Personal site of Lin Youshen
 theme:
   name: material
-  
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: switch to night mode
+
+    - scheme: slate
+      primary: indigo
+      accent: orange
+      toggle: 
+        icon: material/weather-sunny
+        name: switch to day mode
+
+  features: 
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
